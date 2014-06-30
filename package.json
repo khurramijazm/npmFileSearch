@@ -1,0 +1,25 @@
+{
+  "name": "npmfilesearch",
+  "version": "0.0.1",
+  "description": "Simple Utility to Search On Linux through a webInterface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khurramijazm/npmFileSearch.git"
+  },
+  "keywords": [
+    "khurram",
+    "file",
+    "search",
+    "linux"
+  ],
+  "author": "M.Khurram Ijaz <khurramijazm@gmail.com> (https://github.com/khurramijazm/npmFileSearch)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khurramijazm/npmFileSearch/issues"
+  },
+  "homepage": "https://github.com/khurramijazm/npmFileSearch"
+}
